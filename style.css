@@ -30,7 +30,7 @@ body{
     font-weight: bold;
    
 }
-.link-button1{
+.link-button{
     text-decoration: none;
     background-image:linear-gradient(seagreen, green);
     padding: 10px 40px;
@@ -90,7 +90,6 @@ body{
 }
 .third-section{
     display: flex;
-    background-image: url(./image/dream-bg.png);
     background-repeat: no-repeat;
     background-position: left;
     margin-bottom: 60px;
@@ -169,7 +168,12 @@ body{
     text-align: center;
 }
 .earth-description{
-    font-size: 15px;
+    font-size: 20px;
+}
+#earth{
+    float:right;
+    margin-top: 10px;
+    margin-right: 530px;
 }
 footer{
     background-color:#0B0D17;
