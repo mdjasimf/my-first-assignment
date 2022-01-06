@@ -1,0 +1,134 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.first-section{
+    display: flex;
+    margin-bottom: auto;
+}
+.fist-section-div1{
+    width: 40%;
+    margin-top: 150px;
+    margin-left: 10%;
+   
+}
+.border{
+    border-left: 4px solid blueviolet;
+    border-radius: 3px;
+    
+    padding: 10px;
+}
+.focus{
+    font-size: 50px;
+    color: gray;
+    font-weight: bold;
+}
+    
+.mission{
+    font-size: 50px;
+    color: orangered;
+    font-weight: bold;
+   
+}
+.link-button1{
+    text-decoration: none;
+    background-image:linear-gradient(seagreen, green);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.fist-section-div2{
+    width: 50%;
+}
+.fist-section-div2 img{
+    width: 60%;
+    padding: 20px;
+}
+.my-goals{
+    text-align: center;
+    font-size: 50px;
+}
+.second-section{
+    margin-bottom: 60px;
+}
+.second-section-grandparents{
+    display: flex;
+    justify-content: center;
+}
+    
+.second-section-parents1{
+    background-color: rgb(236, 201, 158);
+    border-radius: 20px;
+    width: 360px;
+
+}
+.second-section-parents2{
+    background-color:rgb(238, 176, 238);
+    border-radius: 20px;
+    width: 360px;
+    margin: 0px 20px;
+}
+.second-section-parents3{
+    background-color: rgb(164, 199, 235);
+    border-radius: 20px;
+    width: 360px;
+}
+.second-section-child1 img{
+    width:130px;
+    padding: 20px;
+}
+.second-section-child2{
+    padding: 20px;
+
+}
+.goals{
+    font-size: 20px;
+}
+.goal-description{
+    font-size: 15px;
+}
+.third-section{
+    display: flex;
+    background-image: url(./image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-bottom: 60px;
+}
+.third-section-div1{
+    width: 30%;
+    margin-left: 9%;
+}
+.third-section-div1 img{
+    width: 100%;
+}
+.third-section-div2{
+    width: 60%;
+    margin-left: 1%;
+    padding: 50px;
+}
+
+.h1{
+    font-size: 40px;
+    color: gray;
+}
+.forth-section{
+    display: flex;
+    background-image:
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-bottom: 60px;
+}
+.forth-section-div1{
+    width: 40%;
+    margin-left: 9%;
+    margin: 10%;
+   
+}
+.forth-section-div2{
+    width: 50%;
+  }
+.forth-section-div2 img{
+    width:70%;
+    float: left;
+}
