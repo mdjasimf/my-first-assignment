@@ -14,9 +14,9 @@ body{
 }
 .border{
     border-left: 4px solid blueviolet;
-    border-radius: 3px;
-    
-    padding: 10px;
+    border-radius: 1px;
+    line-height: 30px;
+    padding-left: 10px;
 }
 .focus{
     font-size: 50px;
@@ -131,4 +131,11 @@ body{
 .forth-section-div2 img{
     width:70%;
     float: left;
+}
+footer{
+    background-color: rgb(204, 127, 11);
+    padding: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Satisfy', cursive;
 }
