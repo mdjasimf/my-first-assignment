@@ -13,9 +13,9 @@ body{
    
 }
 .border{
-    border-left: 4px solid blueviolet;
-    border-radius: 1px;
-    line-height: 30px;
+    border-left:4px solid orange;
+    border-radius: 2px;
+    line-height: 40px;
     padding-left: 10px;
 }
 .focus{
@@ -112,28 +112,67 @@ body{
     font-size: 40px;
     color: gray;
 }
-.forth-section{
+.fourth-section{
     display: flex;
     background-image:
     background-repeat: no-repeat;
     background-position: left;
     margin-bottom: 60px;
 }
-.forth-section-div1{
-    width: 40%;
-    margin-left: 9%;
-    margin: 10%;
-   
+.fourth-section-div1{
+    width: 90%;
+    padding: 50px;
+    margin-left: 5%;
 }
 .forth-section-div2{
-    width: 50%;
+    width:10%;
   }
-.forth-section-div2 img{
-    width:70%;
-    float: left;
+.fourth-section-div2 img{
+    width:50%;
+    float: ;
+    margin: 20px;
+}
+
+.fifth-section{
+    margin-bottom: 60px;
+}
+.fifth-section-grandparents{
+    display: flex;
+    justify-content: center;
+}
+    
+.fifth-section-parents1{
+    border-radius: 20px;
+    width: 360px;
+
+}
+.fifth-section-parents2{
+    border-radius: 20px;
+    width: 360px;
+    margin: 0px 20px;
+}
+.fifth-section-child1 img{
+    width:130px;
+    padding: 20px;
+    margin-bottom: -40px;
+    margin-left: 80px;
+}
+.fifth-section-child2{
+    padding: 20px;
+    background-color: rgb(229, 158, 236);
+    border: 2px solid;
+    box-shadow: 10px 10px 40px;
+    border-radius: 50px;
+
+}
+.earth{
+    text-align: center;
+}
+.earth-description{
+    font-size: 15px;
 }
 footer{
-    background-color: rgb(204, 127, 11);
+    background-color:#0B0D17;
     padding: 20px;
     text-align: center;
     font-family: 'Poppins', sans-serif;
